@@ -1,1 +1,0 @@
-These are just the specific faults and variables I chose to focus on, reduced to make life easier. It should still work on other data though (assuming it doesn't have an unreasonable amount of noise)!

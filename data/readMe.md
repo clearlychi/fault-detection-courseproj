@@ -1,0 +1,1 @@
+Unfortunately, the TEP problem set has thousands of rows of data, and is way too big to upload. [Here](https://www.kaggle.com/datasets/averkij/tennessee-eastman-process-simulation-dataset) is the resource I used to gather my faulty and fault free sets.
